@@ -1,4 +1,4 @@
-#react-ucenje 
+# react-ucenje 
 
 Na spletni strani gledaš in ocenjuješ filme. Do podatkov o filmih dostopaš preko apija (https://www.themoviedb.org/documentation/api).
 
